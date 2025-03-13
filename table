@@ -22,9 +22,9 @@
 				<td><i><b>Friday</b></i></td>
                                              </tr>
            
-		</table>
+	
 
-<table>
+	
 			<tr>                            
 				<td><i><b>Freshman Seminar</b></i></td>
                                          
@@ -37,22 +37,22 @@
 			<td><i><b>Freshman Seminar</b></i></td>
                                              </tr>
            
-		</table>
+		
+
         
         			<tr>                            
-				<td><i><b>Intro to web development</b></i></td>
+				<td><i><b>HTML</b></i></td>
                                          
-				<td><i><b>Intro to web development</b></i> </td>
+				<td><i><b>HTML</b></i> </td>
            	                                 
-				<td><i><b>Intro to web development</b></i></td>
+				<td><i><b>HTML</b></i></td>
                                                 
-				<td><i><b>Intro to web development</b></i></td>
+				<td><i><b>HTML></b></i></td>
                                               
-				<td><i><b>Intro to web development</b></i></td>
+				<td><i><b>HTML</b></i></td>
                                              </tr>
-           
-		</table>
-        <table>
+             
+   
 			<tr>                            
 				<td><i><b>Algebra</b></i></td>
                                          
@@ -65,8 +65,6 @@
 				<td><i><b>Algebra</b></i></td>
                                              </tr>
            
-		</table>
-        <table>
 			<tr>                            
 				<td><i><b>Global</b></i></td>
                                          
@@ -79,9 +77,9 @@
 				<td><i><b>Global</b></i></td>
                                              </tr>
            
-		</table>
-         <table>
-			<tr>                            
+		
+			<tr> 
+            	<td><i><b>Period 5</b></i></td>
 				<td><i><b>Physical Education</b></i></td>
                                          
 				<td><i><b>Mathlab</b></i> </td>
@@ -93,23 +91,15 @@
 				<td><i><b>Physical Education</b></i></td>
                                              </tr>
            
-		</table>
-         <table>
+		
 			<tr>                            
 				<td><i><b>Lunch</b></i></td>
-                                         
-				<td><i><b>Lunch</b></i> </td>
-           	                                 
-				<td><i><b>Lunch</b></i></td>
-                                                
-				<td><i><b>Lunch</b></i></td>
-                                              
-				<td><i><b>Lunch</b></i></td>
+                                        
                                              </tr>
-           
-		</table>
-         <table>
-			<tr>                            
+      
+			<tr>
+				<td><i><b>Period 7:</b></i></td>
+                
 				<td><i><b>Biology</b></i></td>
                                          
 				<td><i><b>Biology</b></i> </td>
@@ -120,10 +110,9 @@
                                               
 				<td><i><b>Biology</b></i></td>
                                              </tr>
-           
-		</table>
-         <table>
-			<tr>                            
+       
+			<tr> 
+            	<td><i><b>Period 8:</b>
 				<td><i><b>English</b></i></td>
                                          
 				<td><i><b>English</b></i> </td>
@@ -133,7 +122,7 @@
 				<td><i><b>English</b></i></td>
                                               
 				<td><i><b>English</b></i></td>
-                                             </tr>
+                                             
            
 		</table>
         
