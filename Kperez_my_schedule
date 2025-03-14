@@ -9,51 +9,56 @@
 
 	<body>
     	<h1>Semester 2 schedule</h1>
-		<table>
-			<tr>                            
-				<td><i><b>Monday</b></i></td>
-                                         
-				<td><i><b>Tuesday</b></i> </td>
+		<table border=1>
+			<tr>
+            	<td><u><i><b>Periods</b></i></u></td>
+				
+                <td><u><i><b>Monday</b></i></u></td>
+             
+				<td><u><i><b>Tuesday</b></i></u></td>
            	                                 
-				<td><i><b>Wednesday</b></i></td>
+				<td><u><i><b>Wednesday</b></i></u></td>
                                                 
-				<td><i><b>Thursday</b></i></td>
+				<td><u><i><b>Thursday</b></i></u></td>
                                               
-				<td><i><b>Friday</b></i></td>
+				<td><u><i><b>Friday</b></i></u></td>
                                              </tr>
            
 	
 
 	
-			<tr>                            
-				<td><i><b>Freshman Seminar</b></i></td>
+			<tr>  
+            	 	<td><i><b>Period 1:</b></i></td>
+				<td><i><b>Freshman<br>Seminar</b></i></td>
                                          
 					<td><i><b>CRMYA</b></i> </td>
            	                                 
-						<td><i><b>Freshman Seminar</b></i></td>
+						<td><i><b>Freshman<br>Seminar</b></i></td>
                                                 
 				<td><i><b>CRMYA</b></i></td>
                                               
-			<td><i><b>Freshman Seminar</b></i></td>
+			<td><i><b>Freshman<br>Seminar</b></i></td>
                                              </tr>
            
 		
 
         
-        			<tr>                            
+        			<tr>  
+                     	<td><i><b>Period 2:</b></i></td>
 				<td><i><b>HTML</b></i></td>
                                          
 				<td><i><b>HTML</b></i> </td>
            	                                 
 				<td><i><b>HTML</b></i></td>
                                                 
-				<td><i><b>HTML></b></i></td>
+				<td><i><b>HTML</b></i></td>
                                               
 				<td><i><b>HTML</b></i></td>
                                              </tr>
              
    
-			<tr>                            
+			<tr>   
+            	 <td><i><b>Period 3:</b></i></td>
 				<td><i><b>Algebra</b></i></td>
                                          
 				<td><i><b>Algebra</b></i> </td>
@@ -65,7 +70,8 @@
 				<td><i><b>Algebra</b></i></td>
                                              </tr>
            
-			<tr>                            
+			<tr>                     
+            	<td><i><b>Period 4:</b></i></td>
 				<td><i><b>Global</b></i></td>
                                          
 				<td><i><b>Global</b></i> </td>
@@ -77,23 +83,25 @@
 				<td><i><b>Global</b></i></td>
                                              </tr>
            
-		
+
+       
 			<tr> 
-            	<td><i><b>Period 5</b></i></td>
-				<td><i><b>Physical Education</b></i></td>
+            	<td><i><b>Period 5:</b></i></td>
+				<td><i><b>PE</b></i></td>
                                          
 				<td><i><b>Mathlab</b></i> </td>
            	                                 
-				<td><i><b>Physical Education</b></i></td>
+				<td><i><b>PE</b></i></td>
                                                 
 				<td><i><b>Mathlab</b></i></td>
                                               
-				<td><i><b>Physical Education</b></i></td>
+				<td><i><b>PE</b></i></td>
                                              </tr>
            
 		
 			<tr>                            
-				<td><i><b>Lunch</b></i></td>
+				<td><b><i>Period 6</i></b></td>
+                <td colspan = '5'><i><b>lunch</b></i></td>
                                         
                                              </tr>
       
@@ -124,8 +132,10 @@
 				<td><i><b>English</b></i></td>
                                              
            
-		</table>
+											</table>
         
   </body>
 
 </html> 
+
+
