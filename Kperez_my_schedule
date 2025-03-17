@@ -9,7 +9,8 @@
 
 	<body>
     	<h1>Semester 2 schedule</h1>
-		<table border=1>
+        <table>
+			<table border=1>
 			<tr>
             	<td><u><i><b>Periods</b></i></u></td>
 				
@@ -22,29 +23,31 @@
 				<td><u><i><b>Thursday</b></i></u></td>
                                               
 				<td><u><i><b>Friday</b></i></u></td>
-                                             </tr>
+            										</tr>
            
 	
 
 	
 			<tr>  
-            	 	<td><i><b>Period 1:</b></i></td>
+				<td><i><b>Period 1:</b></i></td>
+                    
 				<td><i><b>Freshman<br>Seminar</b></i></td>
                                          
-					<td><i><b>CRMYA</b></i> </td>
+				<td><i><b>CRMYA</b></i> </td>
            	                                 
-						<td><i><b>Freshman<br>Seminar</b></i></td>
+				<td><i><b>Freshman<br>Seminar</b></i></td>
                                                 
 				<td><i><b>CRMYA</b></i></td>
                                               
-			<td><i><b>Freshman<br>Seminar</b></i></td>
-                                             </tr>
+				<td><i><b>Freshman<br>Seminar</b></i></td>
+													</tr>
            
 		
 
         
-        			<tr>  
-                     	<td><i><b>Period 2:</b></i></td>
+			<tr>  
+				<td><i><b>Period 2:</b></i></td>
+                        
 				<td><i><b>HTML</b></i></td>
                                          
 				<td><i><b>HTML</b></i> </td>
@@ -54,7 +57,7 @@
 				<td><i><b>HTML</b></i></td>
                                               
 				<td><i><b>HTML</b></i></td>
-                                             </tr>
+            </tr>
              
    
 			<tr>   
@@ -72,6 +75,7 @@
            
 			<tr>                     
             	<td><i><b>Period 4:</b></i></td>
+                
 				<td><i><b>Global</b></i></td>
                                          
 				<td><i><b>Global</b></i> </td>
@@ -87,6 +91,7 @@
        
 			<tr> 
             	<td><i><b>Period 5:</b></i></td>
+                
 				<td><i><b>PE</b></i></td>
                                          
 				<td><i><b>Mathlab</b></i> </td>
@@ -120,7 +125,8 @@
                                              </tr>
        
 			<tr> 
-            	<td><i><b>Period 8:</b>
+            	<td><i><b>Period 8:</b></i></td>
+                
 				<td><i><b>English</b></i></td>
                                          
 				<td><i><b>English</b></i> </td>
@@ -130,12 +136,11 @@
 				<td><i><b>English</b></i></td>
                                               
 				<td><i><b>English</b></i></td>
+                							</tr>
                                              
-           
-											</table>
+           </table>
+        
         
   </body>
 
 </html> 
-
-
