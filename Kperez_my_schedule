@@ -8,139 +8,142 @@
 	</head>
 
 	<body>
-    	<h1>Semester 2 schedule</h1>
+        <h1 style="color:blue;">Semester 2 schedule</h1>
         <table>
 			<table border=1>
+            
+           
+          
+       
 			<tr>
-            	<td><u><i><b>Periods</b></i></u></td>
+            	<th>Periods</th>
 				
-                <td><u><i><b>Monday</b></i></u></td>
+                <th>Monday</th>
              
-				<td><u><i><b>Tuesday</b></i></u></td>
+				<th>Tuesday</th>
            	                                 
-				<td><u><i><b>Wednesday</b></i></u></td>
+				<th>Wednesday</th>
                                                 
-				<td><u><i><b>Thursday</b></i></u></td>
+				<th>Thursday</th>
                                               
-				<td><u><i><b>Friday</b></i></u></td>
-            										</tr>
+				<th>Friday</th>
+            					</tr>
            
 	
 
 	
 			<tr>  
-				<td><i><b>Period 1:</b></i></td>
+				<td>Period 1:</td>
                     
-				<td><i><b>Freshman<br>Seminar</b></i></td>
+				<td>Freshman<br>Seminar</td>
                                          
-				<td><i><b>CRMYA</b></i> </td>
+				<td>CRMYA</td>
            	                                 
-				<td><i><b>Freshman<br>Seminar</b></i></td>
+				<td>Freshman<br>Seminar</td>
                                                 
-				<td><i><b>CRMYA</b></i></td>
+				<td>CRMYA</td>
                                               
-				<td><i><b>Freshman<br>Seminar</b></i></td>
+				<td>Freshman<br>Seminar</td>
 													</tr>
            
 		
 
         
 			<tr>  
-				<td><i><b>Period 2:</b></i></td>
+				<td>Period 2:</td>
                         
-				<td><i><b>HTML</b></i></td>
+				<td>HTML</td>
                                          
-				<td><i><b>HTML</b></i> </td>
+				<td>HTML</td>
            	                                 
-				<td><i><b>HTML</b></i></td>
+				<td>HTML</td>
                                                 
-				<td><i><b>HTML</b></i></td>
+				<td>HTML</td>
                                               
-				<td><i><b>HTML</b></i></td>
+				<td>HTML</td>
             </tr>
              
    
 			<tr>   
-            	 <td><i><b>Period 3:</b></i></td>
-				<td><i><b>Algebra</b></i></td>
+				<td>Period 3:</td>
+                 
+				<td>Algebra</td>
                                          
-				<td><i><b>Algebra</b></i> </td>
+				<td>Algebra</td>
            	                                 
-				<td><i><b>Algebra</b></i></td>
+				<td>Algebra</td>
                                                 
-				<td><i><b>Algebra</b></i></td>
+				<td>Algebra</td>
                                               
-				<td><i><b>Algebra</b></i></td>
+				<td>Algebra</td>
                                              </tr>
            
 			<tr>                     
-            	<td><i><b>Period 4:</b></i></td>
+            	<td>Period 4:</td>
                 
-				<td><i><b>Global</b></i></td>
+				<td>Global</td>
                                          
-				<td><i><b>Global</b></i> </td>
+				<td>Global</td>
            	                                 
-				<td><i><b>Global</b></i></td>
+				<td>Global</td>
                                                 
-				<td><i><b>Global</b></i></td>
+				<td>Global</td>
                                               
-				<td><i><b>Global</b></i></td>
+				<td> Global</td>
                                              </tr>
            
 
        
 			<tr> 
-            	<td><i><b>Period 5:</b></i></td>
+            	<td>Period 5:</td>
                 
-				<td><i><b>PE</b></i></td>
+				<td>PE</td>
                                          
-				<td><i><b>Mathlab</b></i> </td>
+				<td>Mathlab</td>
            	                                 
-				<td><i><b>PE</b></i></td>
+				<td>PE</td>
                                                 
-				<td><i><b>Mathlab</b></i></td>
+				<td>Mathlab</td>
                                               
-				<td><i><b>PE</b></i></td>
+				<td>PE</td>
                                              </tr>
            
 		
 			<tr>                            
-				<td><b><i>Period 6</i></b></td>
-                <td colspan = '5'><i><b>lunch</b></i></td>
+				<td>Period 6</td>
+                <td colspan = '5'>lunch</td>
                                         
                                              </tr>
       
 			<tr>
-				<td><i><b>Period 7:</b></i></td>
+				<td>Period 7:</td>
                 
-				<td><i><b>Biology</b></i></td>
+				<td>Biology</td>
                                          
-				<td><i><b>Biology</b></i> </td>
+				<td>Biology</td>
            	                                 
-				<td><i><b>Biology</b></i></td>
+				<td>Biology</td>
                                                 
-				<td><i><b>Biology</b></i></td>
+				<td>Biology</td>
                                               
-				<td><i><b>Biology</b></i></td>
+				<td>Biology</td>
                                              </tr>
        
 			<tr> 
-            	<td><i><b>Period 8:</b></i></td>
+            	<td>Period 8:</td>
                 
-				<td><i><b>English</b></i></td>
+				<td>English</td>
                                          
-				<td><i><b>English</b></i> </td>
+				<td>English</td>
            	                                 
-				<td><i><b>English</b></i></td>
+				<td>English</td>
                                                 
-				<td><i><b>English</b></i></td>
+				<td>English</td>
                                               
-				<td><i><b>English</b></i></td>
+				<td>English</td>
                 							</tr>
+                                            
                                              
-           </table>
+           										</table>
+                                                </body>
         
-        
-  </body>
-
-</html> 
