@@ -6,28 +6,46 @@
 	<head>
     	<title>Semester 2 schedule</title>
 	</head>
-
+    <style> 
+    		tr{
+            	color:red;
+                }
+		
+        tr{
+        	font-family:Courier New
+          } 
+    </style>
+    
 	<body>
-        <h1 style="color:blue;">Semester 2 schedule</h1>
+    
+        <h1 style="color:green;">Semester 2 schedule</h1>
+       
         <table>
 			<table border=1>
+            <style> 
+    		tr{
+            	color:red;
+                }
+                </style>
             
            
           
        
-			<tr>
-            	<th>Periods</th>
+		
+            <tr>
+            	<td>Periods</td>
 				
-                <th>Monday</th>
+                <td>Monday</td>
              
-				<th>Tuesday</th>
+				<td>Tuesday</td>
            	                                 
-				<th>Wednesday</th>
+				<td>Wednesday</td>
                                                 
-				<th>Thursday</th>
+				<td>Thursday</td>
                                               
-				<th>Friday</th>
-            					</tr>
+				<td>Friday</td>
+                				</tr>
+            					
            
 	
 
@@ -142,8 +160,6 @@
                                               
 				<td>English</td>
                 							</tr>
-                                            
-                                             
-           										</table>
-                                                </body>
-        
+		</table>
+			</body>
+</html>
