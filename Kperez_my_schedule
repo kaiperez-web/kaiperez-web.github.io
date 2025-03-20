@@ -7,13 +7,19 @@
     	<title>Semester 2 schedule</title>
 	</head>
     <style> 
-    		tr{
+    	tr{
             	color:red;
                 }
 		
         tr{
-        	font-family:Courier New
+        	font-family:Courier New 
           } 
+          
+        tr{
+			border-style: solid;
+            border-color: blue;
+            }
+            
     </style>
     
 	<body>
