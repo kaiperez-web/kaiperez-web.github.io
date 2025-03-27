@@ -19,24 +19,22 @@
 			border-style: solid;
             border-color: blue;
             }
-            
-    </style>
-    
-	<body>
-    
+	
+
         <h1 style="color:green;">Semester 2 schedule</h1>
        
-        <table>
-			<table border=1>
-            <style> 
+      
+			
+             
     		tr{
             	color:red;
                 }
                 </style>
             
            
-          
-       
+          <body>
+          <h1 style="color:green;">Semester 2 schedule</h1>
+       <table border="1">
 		
             <tr>
             	<td>Periods</td>
@@ -167,5 +165,6 @@
 				<td>English</td>
                 							</tr>
 		</table>
-			</body>
+	</body>
 </html>
+
