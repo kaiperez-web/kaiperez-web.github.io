@@ -29,6 +29,16 @@
     		tr{
             	color:red;
                 }
+                
+                
+			table{ 
+				background-color: pink;
+                }
+                
+                table{
+                	text-align:center;
+                    }
+             
                 </style>
             
            
@@ -37,17 +47,17 @@
        <table border="1">
 		
             <tr>
-            	<td>Periods</td>
+            	<th>Periods</th>
 				
-                <td>Monday</td>
+                <th>Monday</th>
              
-				<td>Tuesday</td>
+				<th>Tuesday</th>
            	                                 
-				<td>Wednesday</td>
+				<th>Wednesday</th>
                                                 
-				<td>Thursday</td>
+				<th>Thursday</th>
                                               
-				<td>Friday</td>
+				<th>Friday</th>
                 				</tr>
             					
            
@@ -131,11 +141,11 @@
                                              </tr>
            
 		
-			<tr>                            
-				<td>Period 6</td>
-                <td colspan = '5'>lunch</td>
-                                        
-                                             </tr>
+			<tr>
+				<td>Period 6:</td>
+				<td colspan="6">Lunch</td>
+											</tr>
+
       
 			<tr>
 				<td>Period 7:</td>
@@ -167,4 +177,3 @@
 		</table>
 	</body>
 </html>
-
