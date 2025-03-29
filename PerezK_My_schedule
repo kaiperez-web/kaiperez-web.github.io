@@ -6,39 +6,51 @@
 	<head>
     	<title>Semester 2 schedule</title>
 	</head>
-    <style> 
-    	tr{
-            	color:red;
-                }
-		
+    <h1>My Semester 2 Schedule</h1>
+    <style>
+    
+    	h1{color: green;
+			background-color:#f5de6e;
+			font-style: italic;
+        	}
+    
+    	th{
+        	color: #bf1595;
+            }
+            
+        
+     
         tr{
         	font-family:Courier New 
           } 
           
-        tr{
+         tr{
+ 			 font-style: italic;
+			}
+            
+        table{
 			border-style: solid;
-            border-color: blue;
+            border-color: #a215ed;
             }
            
 
     		tr{
-            	color:red;
+            	color:#c71212;
                 }
                 
                 
 			table{ 
-				background-color: pink;
+				background-color: LightBlue;
                 }
                 
                 table{
                 	text-align:center;
                     }
-             
+				
                 </style>
             
            
           <body>
-           <h1 style="color:green;">Semester 2 schedule</h1>
           
          
        <table border="1">
@@ -126,15 +138,15 @@
 			<tr> 
             	<td>Period 5:</td>
                 
-				<td>PE</td>
+				<td>Physical<br>Education</td>
                                          
 				<td>Mathlab</td>
            	                                 
-				<td>PE</td>
+				<td>Physical<br>Education</td>
                                                 
 				<td>Mathlab</td>
                                               
-				<td>PE</td>
+				<td>Physical<br>Education</td>
                                              </tr>
            
 		
