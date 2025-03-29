@@ -19,13 +19,8 @@
 			border-style: solid;
             border-color: blue;
             }
-	
+           
 
-        <h1 style="color:green;">Semester 2 schedule</h1>
-       
-      
-			
-             
     		tr{
             	color:red;
                 }
@@ -43,7 +38,9 @@
             
            
           <body>
-          <h1 style="color:green;">Semester 2 schedule</h1>
+           <h1 style="color:green;">Semester 2 schedule</h1>
+          
+         
        <table border="1">
 		
             <tr>
@@ -84,15 +81,15 @@
 			<tr>  
 				<td>Period 2:</td>
                         
-				<td>HTML</td>
+				<td>Intro to<br>Web<br>Development</td>
                                          
-				<td>HTML</td>
+				<td>Intro to<br>Web<br>Development</td>
            	                                 
-				<td>HTML</td>
+				<td>Intro to<br>Web<br>Development</td>
                                                 
-				<td>HTML</td>
+				<td>Intro to<br>Web<br>Development</td>
                                               
-				<td>HTML</td>
+				<td>Intro to<br>Web<br>Development</td>
             </tr>
              
    
