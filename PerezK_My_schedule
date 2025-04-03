@@ -1,188 +1,125 @@
 <!DOCTYPE html>
-
-
 <html>
 
-	<head>
-    	<title>Semester 2 schedule</title>
-	</head>
-    <h1>My Semester 2 Schedule</h1>
+<head>
+    <title>Semester 2 Schedule</title>
     <style>
-    
-    	h1{color: green;
-			background-color:#f5de6e;
-			font-style: italic;
-        	}
-    
-    	th{
-        	color: #bf1595;
-            }
-            
-        
-     
-        tr{
-        	font-family:Courier New 
-          } 
-          
-         tr{
- 			 font-style: italic;
-			}
-            
-        table{
-			border-style: solid;
+        h1 {
+            color: green;
+            background-color: #f5de6e;
+            font-style: italic;
+            text-align: center;
+        }
+
+        th {
+            color: #bf1595;
+        }
+
+        tr {
+            font-family: "Courier New", Courier, monospace;
+            font-style: italic;
+            color: #c71212;
+        }
+
+        table {
+            border-style: solid;
             border-color: #a215ed;
-            }
-           
+            background-color: LightBlue;
+            text-align: center;
+            width: 100%;
+            border-collapse: collapse;
+        }
 
-    		tr{
-            	color:#c71212;
-                }
-                
-                
-			table{ 
-				background-color: LightBlue;
-                }
-                
-                table{
-                	text-align:center;
-                    }
-				
-                </style>
-            
-           
-          <body>
-          
-         
-       <table border="1">
-		
-            <tr>
-            	<th>Periods</th>
-				
-                <th>Monday</th>
-             
-				<th>Tuesday</th>
-           	                                 
-				<th>Wednesday</th>
-                                                
-				<th>Thursday</th>
-                                              
-				<th>Friday</th>
-                				</tr>
-            					
-           
-	
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+        }
+    </style>
+</head>
 
-	
-			<tr>  
-				<td>Period 1:</td>
-                    
-				<td>Freshman<br>Seminar</td>
-                                         
-				<td>CRMYA</td>
-           	                                 
-				<td>Freshman<br>Seminar</td>
-                                                
-				<td>CRMYA</td>
-                                              
-				<td>Freshman<br>Seminar</td>
-													</tr>
-           
-		
+<body>
 
-        
-			<tr>  
-				<td>Period 2:</td>
-                        
-				<td>Intro to<br>Web<br>Development</td>
-                                         
-				<td>Intro to<br>Web<br>Development</td>
-           	                                 
-				<td>Intro to<br>Web<br>Development</td>
-                                                
-				<td>Intro to<br>Web<br>Development</td>
-                                              
-				<td>Intro to<br>Web<br>Development</td>
-            </tr>
-             
-   
-			<tr>   
-				<td>Period 3:</td>
-                 
-				<td>Algebra</td>
-                                         
-				<td>Algebra</td>
-           	                                 
-				<td>Algebra</td>
-                                                
-				<td>Algebra</td>
-                                              
-				<td>Algebra</td>
-                                             </tr>
-           
-			<tr>                     
-            	<td>Period 4:</td>
-                
-				<td>Global</td>
-                                         
-				<td>Global</td>
-           	                                 
-				<td>Global</td>
-                                                
-				<td>Global</td>
-                                              
-				<td> Global</td>
-                                             </tr>
-           
+    <h1>My Semester 2 Schedule</h1>
 
-       
-			<tr> 
-            	<td>Period 5:</td>
-                
-				<td>Physical<br>Education</td>
-                                         
-				<td>Mathlab</td>
-           	                                 
-				<td>Physical<br>Education</td>
-                                                
-				<td>Mathlab</td>
-                                              
-				<td>Physical<br>Education</td>
-                                             </tr>
-           
-		
-			<tr>
-				<td>Period 6:</td>
-				<td colspan="6">Lunch</td>
-											</tr>
+    <table border="1">
+        <tr>
+            <th>Periods</th>
+            <th>Monday</th>
+            <th>Tuesday</th>
+            <th>Wednesday</th>
+            <th>Thursday</th>
+            <th>Friday</th>
+        </tr>
 
-      
-			<tr>
-				<td>Period 7:</td>
-                
-				<td>Biology</td>
-                                         
-				<td>Biology</td>
-           	                                 
-				<td>Biology</td>
-                                                
-				<td>Biology</td>
-                                              
-				<td>Biology</td>
-                                             </tr>
-       
-			<tr> 
-            	<td>Period 8:</td>
-                
-				<td>English</td>
-                                         
-				<td>English</td>
-           	                                 
-				<td>English</td>
-                                                
-				<td>English</td>
-                                              
-				<td>English</td>
-                							</tr>
-		</table>
-	</body>
+        <tr>
+            <td>Period 1:</td>
+            <td>Freshman<br>Seminar</td>
+            <td>CRMYA</td>
+            <td>Freshman<br>Seminar</td>
+            <td>CRMYA</td>
+            <td>Freshman<br>Seminar</td>
+        </tr>
+
+        <tr>
+            <td>Period 2:</td>
+            <td>Intro to<br>Web<br>Development</td>
+            <td>Intro to<br>Web<br>Development</td>
+            <td>Intro to<br>Web<br>Development</td>
+            <td>Intro to<br>Web<br>Development</td>
+            <td>Intro to<br>Web<br>Development</td>
+        </tr>
+
+        <tr>
+            <td>Period 3:</td>
+            <td>Algebra</td>
+            <td>Algebra</td>
+            <td>Algebra</td>
+            <td>Algebra</td>
+            <td>Algebra</td>
+        </tr>
+
+        <tr>
+            <td>Period 4:</td>
+            <td>Global</td>
+            <td>Global</td>
+            <td>Global</td>
+            <td>Global</td>
+            <td>Global</td>
+        </tr>
+
+        <tr>
+            <td>Period 5:</td>
+            <td>Physical<br>Education</td>
+            <td>Mathlab</td>
+            <td>Physical<br>Education</td>
+            <td>Mathlab</td>
+            <td>Physical<br>Education</td>
+        </tr>
+
+        <tr>
+            <td>Period 6:</td>
+            <td colspan="5">Lunch</td>
+        </tr>
+
+        <tr>
+            <td>Period 7:</td>
+            <td>Biology</td>
+            <td>Biology</td>
+            <td>Biology</td>
+            <td>Biology</td>
+            <td>Biology</td>
+        </tr>
+
+        <tr>
+            <td>Period 8:</td>
+            <td>English</td>
+            <td>English</td>
+            <td>English</td>
+            <td>English</td>
+            <td>English</td>
+        </tr>
+    </table>
+
+</body>
+
 </html>
