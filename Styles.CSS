@@ -2,3 +2,9 @@
         box-sizing:  border-box;
   }
 
+  .header{
+    color: pink;
+    background-color: Blue
+    font-family: Courier new
+    font-style: italic
+   }
