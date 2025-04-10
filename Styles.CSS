@@ -1,10 +1,25 @@
-  *  {
-        box-sizing:  border-box;
-  }
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Page Title</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
 
-  .header{
-    color: pink;
-    background-color: Blue
-    font-family: Courier new
-    font-style: italic
-   }
+    .header {
+      color: pink;
+      background-color: blue;
+      font-family: 'Courier New', Courier, monospace;
+      font-style: italic;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1 class="header">My Personal Portfolio</h1>
+  <p>My first paragraph.</p>
+
+</body>
+</html>
