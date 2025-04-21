@@ -3,9 +3,19 @@
 }
 
 * .header{
+   text-align:  center;
+  background-color:  lightblue;
+  font-family: Courier  New;
+  color:  pink;
+  font-size:  60px;
 }
 
 * .header2{
+   text-align:  center;
+  background-color: pink;
+  font-family:  Courier  New;
+  color:  lightblue;
+  font-size:  60px;
 }
 
 * .main{
