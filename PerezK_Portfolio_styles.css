@@ -2,22 +2,27 @@
   box-sizing:border-box;
 }
 
-* .header{
-   text-align:  center;
-  background-color:  lightblue;
-  font-family: Courier  New;
-  color:  pink;
-  font-size:  60px;
+
+*.header{
+  text-align: center;
+  font: Monaco;
+  color: white;
+  background-color:blue;
+  font-size:50px;
 }
 
-* .header2{
-   text-align:  center;
-  background-color: pink;
-  font-family:  Courier  New;
-  color:  lightblue;
-  font-size:  60px;
+*.header2{
+  text-align: left;
+  font: Monaco;
+  color: white;
+  background-color:blue;
+  font-size:20px;
 }
 
-* .main{
+*.main{
+  text-align: center;
+  font: Monaco;
+  color: white;
+  background-color:blue;
+  font-size:50px;
 }
-
