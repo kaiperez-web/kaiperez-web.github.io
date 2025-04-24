@@ -32,7 +32,6 @@
 .topnav {
   overflow: hidden;
   background-color: lightblue;
-  font-family: Courier New;
 }
 
 .topnav a {
@@ -42,18 +41,15 @@
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
-  font-family: Courier New;
 }
 
 .topnav a:hover {
   background-color: lightblue;
   color: red;
-  font-family: Courier New;
 }
 
 .topnav a.active {
   background-color: lightblue;
   color: red;
-  font-family: Courier New;
 }
 
