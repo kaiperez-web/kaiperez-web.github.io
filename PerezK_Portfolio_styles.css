@@ -21,6 +21,8 @@
 }
 
 *.main{
+   margin-left: 20px;
+   margin-right:20px;
    text-align: center;
   font-family: Courier New;
   color: red;
@@ -28,3 +30,30 @@
   font-size:30px;
  
 }
+
+h1{
+    text-align: center;
+}
+.navbar ul{
+  list-style-type: none;
+  background-color:Lightblue;
+  padding:0px;
+  margin: 0px;
+  overflow: hidden;  
+}
+.navbar a{
+  color: red;
+  text-decoration: none;
+  padding: 15px;
+  display: block;
+  text-align: center;
+}
+.navbar  a:hover{
+  background-color:lightblue
+}
+.navbar li{
+  float: left;
+}
+
+
+  
