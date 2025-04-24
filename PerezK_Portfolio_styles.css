@@ -29,12 +29,27 @@
  
 }
 
-.topnav{
-   float: left;
-    text-align: center;
-    vertical-align: center;
-    color:red;
-    padding: 10px;
-    text decoration: none;
-    width: 20x;
+.topnav {
+  overflow: hidden;
+  background-color: lightblue;
+}
+
+.topnav a {
+  float: left;
+  color: red;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: lightblue;
+  color: red;
+}
+
+.topnav a.active {
+  background-color: lightblue;
+  color: red;
+}
 }
