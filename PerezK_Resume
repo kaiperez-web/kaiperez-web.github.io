@@ -1,26 +1,11 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Kperez.Portfolio </title>
-  <link rel  =  "stylesheet" href =  "PerezK_Portfolio_styles.css"
-</head>
-<body>
-  <h1>My Portfolio</h1>
-  
-  <nav class="navbar">
-    <ul>
-      <li><a href="kaiperez-web.github.io/PerezK_Home">Home</a></li> 
-      <li><a href="kaiperez-web.github.io/PerezK_AboutMe">About Me</a></li>
-      <li><a href="kaiperez-web.github.io/PerezK_Goals">My Goals</a></li>
-      <li><a href="kaiperez-web.github.io/PerezK_Resume">Resume</a></li>
-      <li><a href="kaiperez-web.github.io/PerezK_Acchivements>My Accomplishments</a></li>
-    </ul>
-</nav>
+<!DOCTYPE HTML>
 
-<main>
-  <h3>This is my resume</h3>
-  <p>kai perez</p>
-</main>
-  
+<html>
+  <head>
+    <title>PerezK.Portfolio</title>
+    <link rel = "stylesheet" href = "PerezK_Portfolio_styles.css">
+  </head>
+<body>
+
 </body>
 </html>
