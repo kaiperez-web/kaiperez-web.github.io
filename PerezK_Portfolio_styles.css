@@ -1,39 +1,35 @@
-*{
-  box-sizing:border-box;
+* {
+  box-sizing: border-box;
 }
 
-
-*.header{
+.header {
   text-align: center;
-  font-family: Courier New;
+  font-family: "Courier New", monospace;
   color: red;
-  background-color:lightblue;
-  font-size:60px;
+  background-color: lightblue;
+  font-size: 60px;
 }
 
-*.header2{
-   text-align: center;
-  font-family: Courier New;
+.header2 {
+  text-align: center;
+  font-family: "Courier New", monospace;
   color: red;
-  background-color:lightblue;
-  font-size:40px;
-
+  background-color: lightblue;
+  font-size: 40px;
 }
 
-*.main{
-   margin-left: 20px;
-   margin-right:20px;
-   text-align: center;
-  font-family: Courier New;
+.main {
+  margin-left: 20px;
+  margin-right: 20px;
+  text-align: center;
+  font-family: "Courier New", monospace;
   color: red;
-  background-color:lightblue;
-  font-size:30px;
- 
+  background-color: lightblue;
+  font-size: 30px;
 }
 
-.topnav{
-  font-family: Courier New;
-  font-size:1vw;
-  background-color: pink
+.topnav {
+  font-family: "Courier New", monospace;
+  font-size: 1vw;
+  background-color: pink;
 }
-  
