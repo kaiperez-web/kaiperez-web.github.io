@@ -2,34 +2,165 @@
 <html>
 <head>
     <title>All About Guitars</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Courier New', sans-serif;
+            background-color: #ffe4e1; 
+            color: #333;
+            line-height: 1.5;
+            padding: 20px;
+        }
+
+
+        h1 {
+            text-align: center;
+            font-size: 3em;
+            color: #8B0000; 
+            margin-bottom: 10px;
+        }
+
+        h1 u i {
+            text-decoration: underline;
+            font-style: italic;
+        }
+
+       
+        hr {
+            border: 0;
+            height: 4px;
+            background-color: #87CEFA; 
+            width: 80%;
+            margin: 20px auto;
+            border-radius: 2px;
+        }
+
+       
+        h2 {
+            text-align: center;
+            font-size: 2em;
+            color: #FF69B4;
+            margin-top: 30px;
+            margin-bottom: 10px;
+        }
+
+    
+        p {
+            max-width: 800px;
+            margin: 10px auto;
+            font-size: 1.2em;
+        }
+
+
+        ul, ol {
+            max-width: 800px;
+            margin: 10px auto;
+            padding-left: 20px;
+            font-size: 1.2em;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+
+        img {
+            display: block;
+            margin: 20px auto;
+            max-width: 200px;
+            height: auto;
+            border-radius: 10px;
+            border: 3px solid #FF69B4;
+            box-shadow: 2px 2px 8px rgba(0,0,0,0.2);
+            transition: transform 0.2s;
+        }
+
+      
+        img:hover {
+            transform: scale(1.05);
+        }
+
+    
+        mark {
+            background-color: #FFB6C1;
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-weight: bold;
+        }
+
+  
+        a {
+            color: #8B0000; 
+            text-decoration: underline;
+            font-weight: bold;
+        }
+
+        a:hover {
+            color: #FF1493; 
+        }
+
+       
+        .section {
+            margin-bottom: 40px;
+        }
+
+        
+        ul ul {
+            list-style-type: circle;
+            margin-left: 20px;
+        }
+      
+        @media(max-width: 600px) {
+            body {
+                padding: 10px;
+            }
+            h1 {
+                font-size: 2.2em;
+            }
+            h2 {
+                font-size: 1.5em;
+            }
+            img {
+                max-width: 100%;
+                height: auto;
+            }
+        }
+    </style>
 </head>
 <body>
 
 <h1><u><i>All About Guitars</i></u></h1>
 <hr>
 
+<div class="section">
 <h2>What Are Guitars?</h2>
-<p><b>Guitars</b> are one of the most popular instruments ever. You can play rock, jazz, pop, and even classical music on them.</p>
+<p><b>Guitars</b> are super popular instruments. You can play all kinds of music like rock, jazz, pop, and classical on them!</p>
+</div>
 
-<hr>
-
+<div class="section">
 <h2>Types of Guitars</h2>
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Musicvox_JB-type_bass_guitars_%26_STMV_electric_guitars_-_LaOX_MUSICVOX_Akihabara_%282011-03-11_12.12.56_by_Hikosaemon%29.jpg" height="180" width="200" alt="Different Guitars">
-<p>There are a bunch of different kinds of guitars. The main ones are:</p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Musicvox_JB-type_bass_guitars_%26_STMV_electric_guitars_-_LaOX_MUSICVOX_Akihabara_%282011-03-11_12.12.56_by_Hikosaemon%29.jpg" alt="Different Guitars">
+<p style="text-align:center;">Some main types:</p>
 <ul>
     <li><b>Acoustic:</b> Makes sound naturally through its hollow body.</li>
     <li><b>Electric:</b> Needs an amp and can have cool effects.</li>
     <li><b>Bass:</b> Only has 4 strings and sounds deep and low.</li>
+
 </ul>
+</div>
 
-<hr>
-
+<div class="section">
 <h2>More Guitar Images</h2>
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Acoustic_guitar_(Martin_DC-16RGTE).jpg" height="180" width="200" alt="Acoustic Guitar">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Electric_guitar_(477100532).jpg" height="180" width="200" alt="Electric Guitar">
+<img src="https://live.staticflickr.com/8459/8010419085_9a6f9b6769_b.jpg" alt="Acoustic Guitar">
+<img src="https://live.staticflickr.com/212/483168533_0c52f2a5a5_b.jpg" alt="Electric Guitar">
+</div>
 
-<hr>
-
+<div class="section">
 <h2>Famous Guitarists</h2>
 <ul>
     <li>Kurt Cobain</li>
@@ -37,10 +168,10 @@
     <li>Billie Joe Armstrong</li>
     <li>Mick Thomson</li>
 </ul>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Jimi_Hendrix_1967.png" height="190" width="190" alt="Jimi Hendrix">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Jimi_Hendrix_1967.png" alt="Jimi Hendrix">
+</div>
 
-<hr>
-
+<div class="section">
 <h2><i>Tuning Styles</i></h2>
 <ol>
     <li>Drop D Tuning</li>
@@ -48,27 +179,41 @@
     <li>Open D Tuning</li>
     <li>DADGAD Tuning</li>
 </ol>
-<img src="https://live.staticflickr.com/161/417082778_d975444201.jpg" height="190" width="190" alt="Tuning Pegs">
+<img src="https://live.staticflickr.com/161/417082778_d975444201.jpg" alt="Tuning Pegs">
+</div>
 
-<hr>
-
+<div class="section">
 <h2><mark>Chords You Should Know</mark></h2>
 <ul>
-    <li>A Minor Maj7</li>
-    <li>D Major 7
+    <li><b><i>Major Chords</i></b>
         <ul>
-            <li>G Sus 4</li>
+            <li>C Major</li>
+            <li>D Major</li>
+            <li>G Major</li>
+        </ul>
+    </li>
+    <li><b><i>Minor Chords</i></b>
+        <ul>
+            <li>A Minor</li>
+            <li>E Minor</li>
+            <li>D Minor</li>
+        </ul>
+    </li>
+    <li><b><i>Seventh Chords</i></b>
+        <ul>
+            <li>A Minor Maj7</li>
+            <li>D Major 7</li>
             <li>C Major 7</li>
         </ul>
     </li>
-    <li>E Minor Maj7</li>
 </ul>
-<img src="https://live.staticflickr.com/4148/5044992692_41f9a584f1.jpg" height="190" width="190" alt="Guitar Chords Chart">
+<img src="https://live.staticflickr.com/4148/5044992692_41f9a584f1.jpg" alt="Guitar Chords Chart">
+</div>
 
-<hr>
-
+<div class="section">
 <h2>Learn Even More!</h2>
 <p><a href="https://www.mi.edu/education/guitar-history-how-the-guitar-has-evolved/" target="_blank">Click here to learn about the evolution of guitars</a></p>
+</div>
 
 </body>
 </html>
