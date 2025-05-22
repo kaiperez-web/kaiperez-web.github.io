@@ -1,27 +1,21 @@
 * {
   box-sizing: border-box;
 }
+
 .header {
   text-align: center;
-  font-family: Courier New;
-  
-  font-size:20px;
+  font-family: "Courier New", monospace;
+  font-size: 20px;
 }
 
 
-.header2 {
-  text-align: left;
-  font:Courier New;
-  
-  font-size:12px;
-}
-
+.header2,
 .header3 {
   text-align: left;
-  font:Courier New;
-  
-  font-size:12px;
+  font-family: "Courier New", monospace;
+  font-size: 12px;
 }
+
 
 ul {
   list-style-type: none;
@@ -31,9 +25,11 @@ ul {
   background-color: #5c0101;
 }
 
+
 li {
   float: left;
 }
+
 
 li a {
   display: block;
@@ -49,14 +45,12 @@ li a:hover {
 }
 
 
-.main{
+.main {
   text-align: left;
-  font: Courier New;
-  
-  font-size:20px;
+  font-family: "Courier New", monospace;
+  font-size: 20px;
 }
-body { 
+
+body {
   background-color: #4f566b;
 }
-  
-  
