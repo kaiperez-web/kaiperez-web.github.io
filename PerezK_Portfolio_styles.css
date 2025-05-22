@@ -5,26 +5,21 @@
   text-align: center;
   font-family: Courier New;
   
-  font-size:15px;
+  font-size:20px;
 }
 .header2 {
   text-align: left;
-  font:Courier new;
+  font:Courier New;
   
   font-size:12px;
 }
-
-
- 
-  
-  
 
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: lightblue;
+  background-color: #darkred;
 }
 
 li {
@@ -33,7 +28,7 @@ li {
 
 li a {
   display: block;
-  color: black;
+  color: lightblue;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -41,18 +36,18 @@ li a {
 
 
 li a:hover {
-  background-color: pink;
+  background-color: #42168c;
 }
 
 
 .main{
   text-align: left;
-  font:Courier new;
+  font: Courier New;
   
   font-size:20px;
 }
 body { 
-  background-color: #6d8484
+  background-color: #4f566b;
 }
   
   
