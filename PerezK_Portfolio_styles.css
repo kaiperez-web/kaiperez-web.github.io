@@ -7,7 +7,16 @@
   
   font-size:20px;
 }
+
+
 .header2 {
+  text-align: left;
+  font:Courier New;
+  
+  font-size:12px;
+}
+
+.header3 {
   text-align: left;
   font:Courier New;
   
